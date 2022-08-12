@@ -1,0 +1,113 @@
+Data_Structures_And_Algorithm
+└── Java 
+    ├── _1_Java_Programming_Basics
+    │       ├── _1.1_Preliminaries
+    │       ├── _1.2_Objects_And_Classes
+    │       ├── _1.3_Special_Types
+    │       ├── _1.4_Java_Expressions
+    │       ├── _1.5_Control_Flow
+    │       ├── _1.6_Input_And_Output
+    │       ├── _1.7_Java_Packages
+    │       ├── _1.8_Writing_In_Java_Programs
+    │       └── _1.9_Exercises
+    ├── _2_Object_Oriented_Design
+    │       ├── _2.1_Goals_Principle_And_Patterns
+    │       ├── _2.2_Inheritance
+    │       ├── _2.3_Interfaces_And_Abstract_Classes
+    │       ├── _2.4_Exception
+    │       ├── _2.5_Castind_And_Generics
+    │       ├── _2.6_Nested_Classes
+    │       └── _2.7_Exercises
+    ├── _3_Arrays_And_LinkedList
+    │       ├── _3.1_Practical_Uses_Of_Arrays
+    │       ├── _3.2_Singly_Linked_List
+    │       ├── _3.3_Circularly_Linked_List
+    │       ├── _3.4_Doubly_Linked_List
+    │       ├── _3.5_Testing_For_Equality
+    │       ├── _3.6_Copying_Data_Structures
+    │       └── _3.7_Exercises
+    ├── _4_Analysis_Tools
+    │       ├── _4.1_Empirical_Analysis
+    │       ├── _4.2_Common_Mathematical_Function
+    │       ├── _4.3_Big-OH_Notation
+    │       ├── _4.4_Proof_Methods
+    │       └── _4.5_Exercises
+    ├── _5_Recursion
+    │       ├── _5.1_Foundation_Of_Recursion
+    │       ├── _5.2_Recursive_Analysis
+    │       ├── _5.3_Application_Of_Recursion
+    │       ├── _5.4_Using_Recursion
+    │       ├── _5.5_Pitfalls_Of_Recursion
+    │       └── _5.6_Exercises
+    ├── _6_Stacks_And_Queues
+    │       ├── _6.1_Stacks
+    │       ├── _6.2_Queues
+    │       ├── _6.3_Double-Ended_Queues
+    │       └── _6.4_Exercises
+    ├── _7_List_Abstractions
+    |       ├── _7.1_The_List_ADT
+    │       ├── _7.2_Array-based_List
+    │       ├── _7.3_Position-Based_Lists
+    │       ├── _7.4_Iterators
+    │       ├── _7.5_The_Collections_Framework
+    │       └── _7.6_Exercises
+    ├── _8_Tree_Structures
+    │       ├── _8.1_Trees_Definitions_And_Properties
+    │       ├── _8.2_Binary_Trees
+    │       ├── _8.3_Tree_Representations
+    │       ├── _8.4_Tree_Traversal_Algorithms
+    │       └── _8.5_Exercises
+    └── _9_Heaps_And_Priority_Queues
+    |       ├── _9.1_The_Priority_Queues_Abstract_Data_Types
+    |       ├── _9.2_Implementing_Priority_Queue
+    |       ├── _9.3_Heaps
+    |       ├── _9.4_Sorting_In_Priority_Queue
+    |       ├── _9.5_Adaptable_Priority_Queues
+    |       └── _9.6_Exercises
+    ├── _10_Hash-Tables_Maps_Skip-List
+    │       ├── _10.1_Map_Abstract_Data_Types
+    │       ├── _10.2_Hashing
+    │       ├── _10.3_Sorted_Map_Abstract_Data_Type
+    │       ├── _10.4_Skip_Lists
+    │       ├── _10.5_Sets_Multisets_Multimaps
+    │       └── _10.6_Exercises
+    ├── _11_Search_Tree_Structures
+    │       ├── _11.1_Binary_Search_Trees
+    │       ├── _11.2_Balanced_Search_Trees
+    │       ├── _11.3_AVL_Trees
+    │       ├── _11.4_2.4_Trees
+    │       ├── _11.5_Red-Black_Trees
+    │       ├── _11.6_Spicy_Trees
+    │       └── _11.7_Exercises
+    ├── _12_Strings_And_Dynamic_Programming
+    │       ├── _12.1_Preliminaries
+    │       ├── _12.2_Pattern-Matching_Algorithms
+    │       ├── _12.3_Tries
+    │       ├── _12.4_Text_Compression_And_Greedy_Method
+    │       ├── _12.5_Dynamic_Programming
+    │       └── _12.6_Exercises
+    ├── _13_Sorting_And_Selection
+    │       ├── _13.1_Merge-Sort
+    │       ├── _13.2_Quick-Sort
+    │       ├── _13.3_Studing_Sorting_In_Algorithm_Lens
+    │       ├── _13.4_Comparing_Sorting_Algorithm
+    │       ├── _13.5_Selection
+    │       └── _13.6_Exercises
+    ├── _14_Graphs
+    │       ├── _14.1_Graphs
+    │       ├── _14.2_Data_Structures_For_Graphs
+    │       ├── _14.3_Graph_Traversal
+    │       ├── _14.4_Transitive_CLosure
+    │       ├── _14.5_Directed_Acylic_Graphs
+    │       ├── _14.6_Shortest_Paths
+    │       ├── _14.7_Minimum_Spanning_Trees
+    │       └── _14.8_Exercises
+    └── _15_Additional_Topics
+            ├── _15.1_Memory_Management
+            ├── _15.2_Memory_Hierarchies_And_Caching
+            ├── _15.3_External_Searching_And_B-Trees
+            ├── _15.4_External_memory_Sorting
+            ├── _15.5_Range_Trees
+            └── _15.6_Exercises
+
+    110 directories
